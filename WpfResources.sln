@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfResources", "WpfResources\WpfResources.csproj", "{156583A6-A0C8-43BD-98D7-AA668EB9EE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMain", "WpfMain\WpfMain.csproj", "{9C043F40-72ED-453A-A7BF-9DDC7B409CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceCustomControl", "ResourceCustomControl\ResourceCustomControl.csproj", "{D6B6A856-EDB2-4921-B1CE-7B2AD7D21257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156583A6-A0C8-43BD-98D7-AA668EB9EE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156583A6-A0C8-43BD-98D7-AA668EB9EE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156583A6-A0C8-43BD-98D7-AA668EB9EE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156583A6-A0C8-43BD-98D7-AA668EB9EE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C043F40-72ED-453A-A7BF-9DDC7B409CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C043F40-72ED-453A-A7BF-9DDC7B409CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C043F40-72ED-453A-A7BF-9DDC7B409CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C043F40-72ED-453A-A7BF-9DDC7B409CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B6A856-EDB2-4921-B1CE-7B2AD7D21257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6A856-EDB2-4921-B1CE-7B2AD7D21257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6A856-EDB2-4921-B1CE-7B2AD7D21257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6A856-EDB2-4921-B1CE-7B2AD7D21257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

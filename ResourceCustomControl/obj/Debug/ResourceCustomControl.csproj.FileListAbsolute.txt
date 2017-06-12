@@ -1,0 +1,7 @@
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\bin\Debug\ResourceCustomControl.dll
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\bin\Debug\ResourceCustomControl.pdb
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\obj\Debug\ResourceCustomControl.g.resources
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\obj\Debug\ResourceCustomControl.Properties.Resources.resources
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\obj\Debug\ResourceCustomControl.csproj.GenerateResource.Cache
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\obj\Debug\ResourceCustomControl.dll
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\ResourceCustomControl\obj\Debug\ResourceCustomControl.pdb

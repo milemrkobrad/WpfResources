@@ -1,0 +1,16 @@
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\bin\Debug\WpfResources.exe.config
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\bin\Debug\WpfResources.exe
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\bin\Debug\WpfResources.pdb
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\bin\Debug\ResourceCustomControl.dll
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\bin\Debug\ResourceCustomControl.pdb
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.csprojResolveAssemblyReference.cache
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\MainWindow.g.cs
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\App.g.cs
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources_MarkupCompile.cache
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources_MarkupCompile.lref
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\MainWindow.baml
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.g.resources
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.Properties.Resources.resources
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.csproj.GenerateResource.Cache
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.exe
+c:\users\mile\documents\visual studio 2017\Projects\WpfResources\WpfResources\obj\Debug\WpfResources.pdb
